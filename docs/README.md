@@ -1,4 +1,7 @@
 
+Nombre: Ignacio Paolo Vidal Garcia, Presentacion: Hola me llamo Ignacio y soy estudiante de la UTEC. Estudio Ciencias de la Computacion y tengo 18 años.
+=======
+
 Nombre: Adriana Lucia Castro Quiñones
 Presentación: Estudiante de CS en Utec, tengo 18 años y me gustan los videojuegos.
 =======
