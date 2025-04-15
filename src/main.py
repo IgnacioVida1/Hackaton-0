@@ -1,5 +1,8 @@
 def calculate() -> float:
     pass
+
+def sumar(a, b):
+    return a + b  
   
 def calculadora():
     print("Calculadora de Multiplicación (solo '*')")
@@ -32,7 +35,6 @@ def calculadora():
             print("Solo se permite la operación de multiplicación usando '*'. Usa 'c' para borrar o 'q' para salir.")
 
 calculadora()
-=======
 
 def dividir(a, b):
     if b == 0:
