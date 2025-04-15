@@ -1,6 +1,6 @@
 def calculate() -> float:
     pass
-
+  
 def calculadora():
     print("Calculadora de Multiplicación (solo '*')")
     print("Escribe una operación (ejemplo: 5 * 3) y presiona Enter.")
@@ -32,3 +32,16 @@ def calculadora():
             print("Solo se permite la operación de multiplicación usando '*'. Usa 'c' para borrar o 'q' para salir.")
 
 calculadora()
+=======
+
+def dividir(a, b):
+    if b == 0:
+        return "Error: división por cero"
+    return a / b
+
+a = float(input("Ingrese el dividendo: "))
+b = float(input("Ingrese el divisor: "))
+
+resultado = dividir(a, b)
+print("Resultado:", resultado)
+
